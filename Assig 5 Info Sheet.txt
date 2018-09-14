@@ -1,0 +1,68 @@
+CS 1501 Assignment Information Sheet
+ 
+You must submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name: Samuel Birus Assignment #: 5
+
+Program Due Date: 7/28/17
+
+Handed in Date: 7/2/17 
+
+JDK Version: 1.8.0_131
+
+Source code file name(s):
+
+Network.java
+Graph.java
+Bag.java
+DijkstraSP.java
+DirectedEdge.java
+In.java
+IndexMinPQ.java
+PrimMST.java
+Stack.java
+StdIn.java
+StdOut.java
+UF.java
+
+Compiled (.jar or .class) file name(s): 
+
+Network.class
+Graph.class
+Bag.class
+DijkstraSP.class
+DirectedEdge.class
+In.class
+IndexMinPQ.class
+PrimMST.class
+Stack.class
+StdIn.class
+StdOut.class
+UF.class
+
+Does your program compile without error?: yes
+If not, what is/are the error(s)?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: yes
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+	Extra credit: I included an add vertex function
+			command to use it is A i x
+			where A is add, i is the already included vertex to connect new vertex to, and x is the weight
